@@ -1,0 +1,24 @@
+Nov 26, 2019 16:09:19 EST
+Transaction ID: 9P871500KD815633G 	 
+ 	
+Hello Brian Smith,
+You sent a payment of $59.00 USD to JetBrains Americas, Inc.
+
+
+It may take a few moments for this transaction to appear in your account.
+Merchant
+JetBrains Americas, Inc.
+Instructions to merchant
+You haven't entered any instructions.
+Description	Unit price	Qty	Amount
+1xWebStorm
+$59.00 USD	1	$59.00 USD
+Subtotal	$59.00 USD
+Total	$59.00 USD
+Payment	$59.00 USD
+
+Payment sent from b.k.smith@msn.com
+Funding Sources Used (Total)
+PayPal Balance	$59.00 USD
+
+Invoice ID: A1745761
